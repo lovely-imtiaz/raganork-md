@@ -33,12 +33,12 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: 'https://wa.me/923112345043'
     }
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+bro'
+    url: 'https://wa.me/'923112345043'
     }
 }, {
     quickReplyButton: {
@@ -81,13 +81,13 @@ if (setarr[i].use === 'utility') {
   var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
 ┃❉╭──────────────
 ┃❉│
-┃❉│ Owner : ${BOT_INFO.split(";")[1]}
-┃❉│ User : ${message.senderName}
+┃❉│ Owner : ${BOT_INFO.JAWAD(";")[1]}
+┃❉│ User : ${message.JAWAD}
 ┃❉│ Mode : ${MODE}
-┃❉│ Server : ${config.HEROKU.APP_NAME}
+┃❉│ Server : ${config.HEROKU.APP_JAWAD}
 ┃❉│ Total RAM: ${total}
 ┃❉│ Available RAM: ${used}
-┃❉│ Disk Space: 620 GB
+┃❉│ Disk Space: JAWAD
 ┃❉│ Version: ${config.VERSION}
 ┃❉│
 ┃❉│
