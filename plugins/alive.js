@@ -1,4 +1,4 @@
-/* Copyright (C) 2022 Sourav KL11.
+/* Copyright (C) 2022 JAWAD.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Raganork MD - Sourav KL11
@@ -37,7 +37,7 @@ Module({
     }
 }, {
   urlButton: {
-    displayText: 'Contact Owner',
+    displayText: 'Contact Owner JAWAD ALi',
     url: 'https://wa.me/'923112345043'
     }
 }, {
@@ -78,7 +78,7 @@ if (setarr[i].use === 'utility') {
   utilmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
 }
 }
-  var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
+  var jawad = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
 ┃❉╭──────────────
 ┃❉│
 ┃❉│ Owner : ${BOT_INFO.JAWAD(";")[1]}
