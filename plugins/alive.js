@@ -7,7 +7,7 @@ const {
   FancyRandom,
   getListFromCommand,
   skbuffer
-} = require("raganork-bot");
+} = require("JAWAD-BOT");
 const {
   Module,
   commands
